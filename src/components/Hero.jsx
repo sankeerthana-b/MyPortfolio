@@ -3,7 +3,7 @@ import { TypeAnimation } from "react-type-animation";
 
 export default function Hero() {
   const profileImageUrl =
-    "https://drive.google.com/thumbnail?id=1BaCsvLQx-aOc1L8hAluUqictfmMGL90E&sz=w1000";
+    "https://drive.google.com/file/d/1BaCsvLQx-aOc1L8hAluUqictfmMGL90E/view?usp=sharing";
 
   return (
     <section className="relative min-h-screen flex items-center justify-center px-6 pt-24 overflow-hidden">

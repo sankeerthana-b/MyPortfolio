@@ -6,6 +6,22 @@ const projects = [
     tech: ["React", "Tailwind CSS"],
   },
 
+  
+{
+  title: "Tic Tac Toe Game",
+  description:
+    "An interactive Tic-Tac-Toe game developed using React.js with responsive design and smooth gameplay.",
+  tech: [
+    "React.js",
+    "JavaScript",
+    "CSS",
+    "Vite"
+  ],
+  liveDemo: "https://tic-tac-toe-xi-two-82.vercel.app",
+  github: "https://github.com/sankeerthana-b/Tic-Tac-Toe"
+},
+
+
   {
     title: "Firebase Authentication App",
     description:

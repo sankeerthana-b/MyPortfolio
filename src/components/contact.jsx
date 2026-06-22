@@ -107,7 +107,7 @@ export default function Contact() {
 
           {/* LinkedIn */}
           <motion.a
-            href="https://www.linkedin.com/in/sankeerthana-bestha"
+            href="https://www.linkedin.com/in/sankeerthana-bestha-5648a6379?utm_source=share_via&utm_content=profile&utm_medium=member_android"
             target="_blank"
             rel="noreferrer"
             whileHover={{
